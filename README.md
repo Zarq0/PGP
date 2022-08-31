@@ -1,2 +1,4 @@
 # PGP
 Public key i guess
+
+Fingerprint: 81B4D39550CBF193263C8FFE6DD3DDE32D426D1F
